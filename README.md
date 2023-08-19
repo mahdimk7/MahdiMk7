@@ -36,7 +36,7 @@ Feel free to explore more of my work on [my portfolio website](###.com).
 
 I'm always open to new opportunities, collaborations, and discussions. Connect with me on:
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/mahdi-mk7-168481289)
+- LinkedIn: [www.linkedin.com/in/mahdi-mk7-168481289]()
 <!-- - Twitter: [@YourTwitterHandle](https://twitter.com/yourusername) -->
 
 You can also reach me via email at [mk777mahdi@gmail.com].
