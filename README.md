@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 # Hi there, I'm Mahdi Mk7 👋
 
 Passionate Front-end Developer | UI/UX Enthusiast | Coffee Lover ☕
@@ -50,5 +47,3 @@ When I'm not coding, I enjoy Exercise/Music/the movie/Game and something else...
 
 Looking forward to connecting with you and exploring the world of web development together! ✨
 
-
--->
